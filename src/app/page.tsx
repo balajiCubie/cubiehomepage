@@ -1,5 +1,5 @@
-import Image from "next/image";
-
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable react/no-unescaped-entities */
 export default function Home() {
   return (
   <>
@@ -293,11 +293,11 @@ export default function Home() {
       </div>
       <div className="vision-content">
         <p className="quote">
-          "True financial intelligence transcends market cycles and political
+          &ldquo;True financial intelligence transcends market cycles and political
           changes. We are building systems that think in centuries, not
-          quarters. Our platform doesn't just analyze the present—it architects
-          the economic future, ensuring that today's decisions create prosperity
-          for generations yet unborn."
+          quarters. Our platform doesn&apos;t just analyze the present&mdash;it architects
+          the economic future, ensuring that today&apos;s decisions create prosperity
+          for generations yet unborn.&rdquo;
         </p>
         <p className="quote-author">
           — Marcus Chen, Founder &amp; Chief Architect, Cubie Group
